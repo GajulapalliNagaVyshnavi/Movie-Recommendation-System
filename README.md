@@ -1,4 +1,4 @@
-# AI-Movie-Recommendation-System
+# Movie-Recommendation-System
 
 
 This project aims to implement a movie recommendation system using
